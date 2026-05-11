@@ -36,7 +36,7 @@ Om te onderzoeken of dat Reumatoïde artritis invloed heeft op de expressie van 
 
 Een bijbehorende [volcanoplot](resultaten/Volcanoplot.png) toont de log2FC tegenover de log10p-waarde. In deze volcanoplot zijn beide groene en rode punten aangegeven. De groene punten zijn genen die biologisch significant zijn, de rode punten zijn genen die biologisch significant én statistisch significant zijn. Daarnaast zijn er, uit de significante resultaten, 2487 downregulated genen en 2085 upregulated genen gevonden.
 
-De [GO-analyse](resultaten/GOAnalysis.csv) toont dat het proces *Adaptive immune response* (GO:0002250) de laagste p-waarde had [p = 0.004].
+De [GO-analyse](resultaten/GOAnalysis.png) toont dat het proces *Adaptive immune response* (GO:0002250) de laagste p-waarde had [p = 0.004].
 De KEGG-pathwayanalyse van [hsa04612](resultaten/keggAnalysis.png) laat zien dat veel genen in deze pathway **neerwaarts gereguleerd** zijn (groen gemarkeerd).
 
 ## 📌 Conclusie
